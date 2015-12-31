@@ -1,3 +1,0 @@
-Contenu upstream=3
-Modif fork1 = 3.1
-Modif fork2 = 3.2
